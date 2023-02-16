@@ -4,9 +4,9 @@ const hid = document.querySelector('.hid')
 
 
 hamburger.addEventListener('click', () => {
-    if (hamburger) {
+   
         hid.style.display = 'flex';
-    } 
+
 
 })
 
